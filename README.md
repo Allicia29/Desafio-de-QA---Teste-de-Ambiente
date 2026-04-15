@@ -12,4 +12,4 @@ Este repositório contém a análise técnica e o mapeamento de falhas encontrad
 6. **Bug de Reset no Botão "Recarregar"**
 
 ## 🚀 Como Executar os Testes
-- Abra o arquivo `docs/relatorio_detalhado.md` para ver os passos de reprodução.
+- Abra o arquivo `docs/relatorio-bugs.pdf` para ver os passos de reprodução.
